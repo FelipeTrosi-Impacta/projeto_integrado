@@ -1,4 +1,2 @@
-# Juan Henrique Trindade da cunha Ferreira
-# Sergio Gobbo dos Santos Junior
-# Lucas Bernardi Busatta
-# Felipe da Silva Fonseca Trosi
+# *** Antes de colocar o Nome e RA, adiconar '# ' antes. Ex: '# Jubileu Asdruball RA-0000000' ***
+
