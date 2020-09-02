@@ -2,3 +2,4 @@
 # Felipe da Silva Fonseca Trosi RA-1903135
 # Juan Henrique Trindade da Cunha Ferreira RA: 1902768
 # Lucas Bernardi Busatta R.A 1903750
+# Sergio Gobbo dos Santos Junior RA: 1902843
